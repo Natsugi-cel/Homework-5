@@ -64,3 +64,5 @@ for num in nums:
    if last_found == True and num > 0:
        break
 print('sum_pos =', sum_pos)
+
+################## 2 ################
